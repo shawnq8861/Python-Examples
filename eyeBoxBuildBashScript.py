@@ -172,7 +172,7 @@ print(comm_uborder_left)
 #
 # open the bash script file and append the text to it
 #
-script = open("/etc/daqri/eyeBoxTest.sh", 'w')
+script = open("/etc/daqri/eyeBoxAdjust.sh", 'w')
 script.write("#!/bin/bash")
 script.write('\n')
 script.write('\n')
